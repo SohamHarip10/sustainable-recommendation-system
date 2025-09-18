@@ -25,6 +25,12 @@ A **Streamlit + FastAPI powered web application** that recommends sustainable pr
 - **Database:** CSV / Pandas  
 - **Visualization:** Plotly  
 
+
+## Contribution :
+Chaitanyapowar99@gmail.com 
+sohamharip1333@gmail.com
+amithajare7@gmail.com
+
 ---
 ## 📂 Project Structure 
 
