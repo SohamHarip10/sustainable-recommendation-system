@@ -26,7 +26,7 @@ A **Streamlit + FastAPI powered web application** that recommends sustainable pr
 - **Visualization:** Plotly  
 
 
-## Contribution :
+## Contributors 
 Chaitanyapowar99@gmail.com 
 sohamharip1333@gmail.com
 amithajare7@gmail.com
