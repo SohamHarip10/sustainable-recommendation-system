@@ -27,7 +27,7 @@ A **Streamlit + FastAPI powered web application** that recommends sustainable pr
 
 
 ## Contributors 
-Chaitanyapowar99@gmail.com 
+chaitanyapowar99@gmail.com 
 sohamharip1333@gmail.com
 amithajare7@gmail.com
 
